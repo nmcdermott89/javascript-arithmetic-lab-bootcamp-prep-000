@@ -20,6 +20,10 @@ return n
 }
 
 function inc(n) {
-n-- 
+n--
 return n
 }
+
+function makeInt('n', 10) {
+  
+} 
