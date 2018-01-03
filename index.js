@@ -25,5 +25,5 @@ return n
 }
 
 function makeInt('n', 10) {
-  
-} 
+
+}
